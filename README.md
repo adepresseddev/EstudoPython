@@ -69,3 +69,70 @@ E assim vai com qualquer tipo de variável.
      
      
   As variáveis dentro do *FORMAT* devem ser apresentados dentro da ordem escrita que você deseja.
+
+-----------------------------------------------------
+
+OPERADORES MATEMÁTICOS
+
+  + = Adição
+  
+  - = Subtração
+  
+  / = Divisão
+  
+  * = Multiplicação
+  
+  ** = Potência
+  
+  % = Resto da Divisão*
+  
+  *: Geralmemte bastante utilizado para saber se um número é ímpar ou par.
+  
+  Exemplos:
+  
+    Exemplo *ADIÇÃO*:
+      
+      num1 = 10
+      num2 = 30
+      
+      resultado = num1 + num2
+      print(resultado)
+      
+    Exemplo *SUBTRAÇÃO*:
+    
+      num1 = 52
+      num2 = 49
+      
+      resultado = num1 - num2
+      print(resultado)
+      
+    Exemplo *DIVISÃO*:
+    
+      num1 = 75
+      num2 = 36
+    
+      resultado = num1 / num2
+      print(resultado)
+    
+    Exemplo *MULTIPLICAÇÃO*:
+    
+      num1 = 45
+      num2 = 92
+      
+      resultado = num1 * num2
+      print(resultado)
+      
+    Exemplo *POTÊNCIA*:
+    
+      num1 = 23
+      
+      resultado = num1**2
+      print(resultado)
+      
+    Exemplo *RESTO DA DIVSÃO*:
+    
+      num1 = 15
+      num2 = 6
+      
+      resultado = num1 % num2
+      print(resultado)
