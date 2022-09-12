@@ -136,3 +136,36 @@ OPERADORES MATEMÁTICOS
       
       resultado = num1 % num2
       print(resultado)
+      
+*OPERADORES LÓGICOS*
+
+  *IF*
+    
+    Usando quando se quer verificar um dado de uma variável, como se ela é verdadeira ou falsa, ou se ela é maior que 10.
+    
+    Exemplo:
+    
+      num = 10 
+      
+      if num >= 6:
+        print('Seu número é maior que 6')
+        
+      else:
+        print('Seu número é menor que 6')
+        
+        
+    *AND E OR*
+    
+      Condições utilizadas para adicionar mais fatores na verificação das variáveis.
+      
+      Exemplo:
+      
+      num = 10
+      
+      if num >= 0 or num <= 20:
+        print('Seu número está entre 0 e 20!')
+        
+      else:
+        print('Seu número não está entre 0 e 20!')
+        
+        
