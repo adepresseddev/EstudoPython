@@ -166,3 +166,14 @@ OPERADORES MATEMÁTICOS
         print('Seu número não está entre 0 e 20!')
         
         
+   Exemplo:
+   
+      num = input('Digite um número!!')
+      
+      if num >= 10 and num <= 30
+        print('Seu número está entre 10 e 30!')
+        
+      else:
+        print('Seu número não está entre 10 e 30!')
+        
+        
