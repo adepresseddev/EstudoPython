@@ -1,49 +1,44 @@
 # EstudoPython
 
-Variaveis
+*VARIÁVEL*
 
 
------------------------------------------------------
+----------------------------------------------------------------------------------------------------------
 
 Não é precisa adcionar o prefixo do tipo de variável a ser criado.
 
 Exemplo:
 
------------------------------------------------------
-
 Caso quero um valor:
 
-int:
+  int:
   
-  idade = 18
+      idade = 18
   
-string:
+  string:
 
-  idade = 'Thiago'
+    idade = 'Thiago'
   
-float:
+  float:
 
-  dinheiro = 10.56
-  
------------------------------------------------------
+    dinheiro = 10.56
   
 E assim vai com qualquer tipo de variável.
 
-
------------------------------------------------------
+----------------------------------------------------------------------------------------------------------
 
 *INPUT*
 
   Dentro da variável podemos também pedir para o usuário digitar os dados usando o comando *INPUT*
 
-    Exemplo:
+   Exemplo:
 
       nome = input('Digite seu nome!!')
       
       idade = input('Digite sua idade!!')
       
  
------------------------------------------------------
+----------------------------------------------------------------------------------------------------------
 
 *PRINT*
 
@@ -59,7 +54,7 @@ E assim vai com qualquer tipo de variável.
 
   O *.FORMAT* é utilizado para quando se quer apresentar as variáveis dentro de um tempo na hora do PRINT.
   
-    Exemplo: 
+   Exemplo: 
     
       nome = 'Thiago'
       
@@ -70,7 +65,7 @@ E assim vai com qualquer tipo de variável.
      
   As variáveis dentro do *FORMAT* devem ser apresentados dentro da ordem escrita que você deseja.
 
------------------------------------------------------
+----------------------------------------------------------------------------------------------------------
 
 OPERADORES MATEMÁTICOS
 
@@ -90,7 +85,7 @@ OPERADORES MATEMÁTICOS
   
   Exemplos:
   
-    Exemplo *ADIÇÃO*:
+   Exemplo *ADIÇÃO*:
       
       num1 = 10
       num2 = 30
@@ -98,7 +93,7 @@ OPERADORES MATEMÁTICOS
       resultado = num1 + num2
       print(resultado)
       
-    Exemplo *SUBTRAÇÃO*:
+   Exemplo *SUBTRAÇÃO*:
     
       num1 = 52
       num2 = 49
@@ -106,7 +101,7 @@ OPERADORES MATEMÁTICOS
       resultado = num1 - num2
       print(resultado)
       
-    Exemplo *DIVISÃO*:
+   Exemplo *DIVISÃO*:
     
       num1 = 75
       num2 = 36
@@ -114,7 +109,7 @@ OPERADORES MATEMÁTICOS
       resultado = num1 / num2
       print(resultado)
     
-    Exemplo *MULTIPLICAÇÃO*:
+   Exemplo *MULTIPLICAÇÃO*:
     
       num1 = 45
       num2 = 92
@@ -122,14 +117,14 @@ OPERADORES MATEMÁTICOS
       resultado = num1 * num2
       print(resultado)
       
-    Exemplo *POTÊNCIA*:
+   Exemplo *POTÊNCIA*:
     
       num1 = 23
       
       resultado = num1**2
       print(resultado)
       
-    Exemplo *RESTO DA DIVSÃO*:
+   Exemplo *RESTO DA DIVSÃO*:
     
       num1 = 15
       num2 = 6
@@ -137,13 +132,15 @@ OPERADORES MATEMÁTICOS
       resultado = num1 % num2
       print(resultado)
       
+----------------------------------------------------------------------------------------------------------
+      
 *OPERADORES LÓGICOS*
 
   *IF*
     
-    Usando quando se quer verificar um dado de uma variável, como se ela é verdadeira ou falsa, ou se ela é maior que 10.
+   Usando quando se quer verificar um dado de uma variável, como se ela é verdadeira ou falsa, ou se ela é maior que 10.
     
-    Exemplo:
+   Exemplo:
     
       num = 10 
       
@@ -154,11 +151,11 @@ OPERADORES MATEMÁTICOS
         print('Seu número é menor que 6')
         
         
-    *AND E OR*
+   *AND E OR*
     
-      Condições utilizadas para adicionar mais fatores na verificação das variáveis.
+   Condições utilizadas para adicionar mais fatores na verificação das variáveis.
       
-      Exemplo:
+   Exemplo:
       
       num = 10
       
